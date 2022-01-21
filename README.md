@@ -26,14 +26,9 @@ the project on a live system.
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Mysql](https://rometools.github.io/rome/) - Relational Database Management System
 
-## Versioning
-
-We use [Gitlab](https://gitlab.com/) for versioning. For the versions available, see the [tags on this repository](https://gitlab.com/ice-team/gt-consumer/ripplenetintegration/-/tags).
 
 ## Contributors
-* **Nana Hawau Adeku** - [@Nana-Hawau](https://gitlab.com/Nana-Hawau)
-
-See also the list of [contributors](https://gitlab.com/ice-team/gt-consumer/ripplenetintegration/-/graphs/dev) who participated in this project.
+* **Nana Hawau Adeku** - [@Nana-Hawau](https://github.com/Nanahawau)
 
 ## Acknowledgments
 
