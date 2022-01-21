@@ -1,7 +1,6 @@
-# User Account Statement Management
+# User Account Statement Manager
 
-The Compliance Queue Manager is a service which integrates with IMTOs to send
-transactions that have failed AML validation to compliance on Rapid Transfer
+An application that manages users and their accounts. 
 
 ## Getting Started
 
