@@ -21,6 +21,8 @@ the project on a live system.
 * Mysql
 ```
 
+## Database Setup
+
 ## Built With
 * [Spring Boot](https://spring.io/projects/spring-boot) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
