@@ -1,6 +1,6 @@
 package com.squadio.accountstatements.services;
 
-import com.squadio.accountstatements.entity.User;
+import com.squadio.accountstatements.entities.User;
 import com.squadio.accountstatements.models.CustomUserDetails;
 import com.squadio.accountstatements.repositories.UserRepository;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

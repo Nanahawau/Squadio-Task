@@ -1,6 +1,6 @@
 package com.squadio.accountstatements.security;
 
-import com.squadio.accountstatements.entity.User;
+import com.squadio.accountstatements.entities.User;
 import io.jsonwebtoken.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -42,6 +42,7 @@ public class SpringSecurity extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
 
         // TODO: Determine how to handle session management
+        // TODO: Role Managament and Access Control Management 
 //        http = http
 //                .sessionManagement()
 //                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
